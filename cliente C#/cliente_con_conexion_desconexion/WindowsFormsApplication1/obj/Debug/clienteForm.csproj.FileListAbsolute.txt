@@ -1,0 +1,8 @@
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Share\Proyecto\cliente C#\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
